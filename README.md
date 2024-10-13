@@ -6,6 +6,10 @@ This project illustrates how Angular change detection works.
 
 https://jeanmeche.github.io/angular-change-detection/
 
+## StackBlitz
+
+https://stackblitz.com/~/github.com//igor2000xp/angular-change-detection?view=editor
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
